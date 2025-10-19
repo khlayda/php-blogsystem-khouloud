@@ -25,27 +25,18 @@ Es besteht aus zwei Hauptseiten – eine für die Besucheransicht und eine für 
 
 Projektphp-khouloudSghaier/
 ┣ 📁 _sql/
+│   └── ... (SQL-Dateien)
 ┣ 📁 _vorlagen/
+│   └── ... (HTML-Vorlagen)
 ┣ 📁 css/
+│   └── ... (Stylesheets)
 ┣ 📁 include/
+│   └── ... (PHP Includes)
 ┣ 📄 index.php
 ┣ 📄 dashboard.php
 ┣ 📄 _generatePasswordHash.php
 ┗ 📄 README.m
 
-Projektphp-khouloudSghaier/
-├── _sql/
-│   └── ... (SQL-Dateien)
-├── _vorlagen/
-│   └── ... (HTML-Vorlagen)
-├── css/
-│   └── ... (Stylesheets)
-├── include/
-│   └── ... (PHP Includes)
-├── index.php
-├── dashboard.php
-├── _generatePasswordHash.php
-└── README.md
 
 ## 🛠️ Verwendete Technologien
 
